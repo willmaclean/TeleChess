@@ -7,7 +7,6 @@ from typing import List, Dict
 import constants
 
 
-TOKEN = "5012363836:AAHBsRGNPp1voCRwij7Q4UijsonT6OlFhwA"
 
 
  ### DO THE E?VENT LOOP THAT QUERIES FOR UPDATES EVERY SECOND
